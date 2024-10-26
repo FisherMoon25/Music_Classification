@@ -1,4 +1,3 @@
-# Music_Classification
 # Music Classification Project
 
 ## Overview
