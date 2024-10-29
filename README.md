@@ -1,7 +1,7 @@
 # Music Classification Project
 
 ## Overview
-Binary classification project to predict song preferences (Like/Dislike) using Spotify audio features. Part of SF2935 course.
+Binary classification project to predict song preferences (Like/Dislike) using Spotify audio features. Part of SF2935 course at KTH.
 
 ## Methods
 We implemented and compared five classification algorithms:
